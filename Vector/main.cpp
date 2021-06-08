@@ -8,7 +8,7 @@ using namespace std;
 int main()
 {
 
-	/*
+	
 
 
 	//cout << sizeof(a);
@@ -153,7 +153,7 @@ int main()
 	v3.push_back(50);
 	cout << endl << "v3 = " << v3[10] << endl << endl;
 	//v3[11] = 30;
-	*/
+	
 
 	
 	return 0;
